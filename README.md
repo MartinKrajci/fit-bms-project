@@ -18,9 +18,13 @@ Shows help how to use this tool with its quick description.
 ./bms -e [-b x y z] <<< message
 ```
 Encodes message. Optionaly, 3 numbers can be used to specify encoder details, where:
+
 x = Number of delays blocks
+
 y = Upper feedback
+
 z = Lower feedback
+
 By default, this numbers are x = 5, y = 53 and z = 46.
 
 ### Decode
@@ -28,7 +32,11 @@ By default, this numbers are x = 5, y = 53 and z = 46.
 ./bms -d [-b x y z] <<< message
 ```
 Decodes message. Optionaly, 3 numbers can be used to specify encoder details, where:
+
 x = Number of delays blocks
+
 y = Upper feedback
+
 z = Lower feedback
+
 By default, these numbers are x = 5, y = 53 and z = 46.
