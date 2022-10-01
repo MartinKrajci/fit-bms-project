@@ -25,7 +25,7 @@ y = Upper feedback
 
 z = Lower feedback
 
-By default, this numbers are x = 5, y = 53 and z = 46.
+By default, these numbers are x = 5, y = 53 and z = 46.
 
 ### Decode
 ```bash
